@@ -5,18 +5,17 @@
 - personal
 - work account
 
-only with RSA keys worked for me.
-something with main :/etc/config/.ssh file
 
-### Added config file to home folder
+### Added config file to home folder 
 
-Any repository under MnS directory will use the work account.
+Any repository under MnS directory will use the MnS account.
 
-if(home/directory/mns)
+#### local folder
+if(Home/MnS/)
 > switch accounts
 
 
-
+:100:
 
 
 
