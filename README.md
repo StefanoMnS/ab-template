@@ -11,9 +11,13 @@
 Any repository under MnS directory will use the MnS account.
 
 #### local folder
-if(Home/MnS/)
-> switch accounts
 
+```
+if (home/MnS/)
+
+   switch accounts
+
+```
 
 :100:
 
